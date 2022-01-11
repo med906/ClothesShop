@@ -1,5 +1,5 @@
 
-<h1 align="center" > Food Shop Website </h1>
+<h1 align="center" > Clothes Shop Website </h1>
 
 ## About The Webstore
 
